@@ -1,5 +1,5 @@
 <?php 
 
- print "Hello ";
+ print "hii this is a sample ";
 
 ?> 
